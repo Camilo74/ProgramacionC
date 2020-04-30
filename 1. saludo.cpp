@@ -1,5 +1,11 @@
 #include<iostream>
 using namespace std;
 int main (){
-	cout<<"bienvenidos a mi primer programa en C++";
+	int a;
+	
+	cout<<"Digite un numero";
+	cin>>a;
+	cout<<"su numero es: "<<a;
 }
+
+
